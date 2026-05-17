@@ -92,13 +92,6 @@ Execute cells sequentially to run the complete analysis pipeline.
 - Dynamic pricing based on predictions
 - Supply chain optimization
 
-## 👤 Author
-
-**Mangesh** | AlmaBetter Data Science Project
-
-## 📄 License
-
-MIT License - Open source project
 
 ## 🔗 Repository
 
